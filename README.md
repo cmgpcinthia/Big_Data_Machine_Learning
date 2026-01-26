@@ -1,3 +1,3 @@
 # Big_Data_Machine_Learning
-Administradora de empresas /
-📘 Máster en Ingeniería de datos y Big Data e Inteligencia Artificial
+Admin by background /
+📘 Master in Data Engineering, Big Data & AI
